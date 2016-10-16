@@ -11,7 +11,6 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
 <title>
-
 	<%
 
 	 num=  request("id")
