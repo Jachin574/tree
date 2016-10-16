@@ -1,0 +1,27 @@
+      #map{
+        position:absolute;
+        width:95%;
+        height:95%;
+        border:#ccc solid 1px;
+        font-size:12px
+      }
+
+      #title{
+        position:absolute; 
+        z-index:1;
+        right:10px; 
+        top:10px;
+        background:url(../images/cloud.png);
+        background-repeat:no-repeat;
+        background-size: 100%;
+        width:100px;
+        height:70px;
+      }
+
+      #inner{
+        font-size: 20px;
+        width: 90px;
+        height: 60px;
+        margin-top:28px;
+        margin-left:12px;
+      }
